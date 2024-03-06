@@ -6,3 +6,4 @@ packages
 Northwind.Mvc/obj
 Northwind.Razor.Employees/obj
 Northwind.Web/obj
+.bin
