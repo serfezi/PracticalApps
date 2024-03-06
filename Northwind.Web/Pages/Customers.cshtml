@@ -1,0 +1,33 @@
+﻿@page
+@using Packt.Shared
+@model Northwind.Web.Pages.CustomersModel
+
+<div class="row">
+    <h1 class="display-2">Customers</h1>
+    <table class="table">
+        <thead class="thead-inverse">
+            <tr>
+                <th>Customer Id</th>
+                <th>Company Name</th>
+                <th>Contact Name</th>
+                <th>City</th>
+                <th>Country</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Customers is not null)
+            {
+                @foreach (Customer? c in Model.Customers)
+                {
+                    <tr>
+                        <td>@c!.CustomerId</td>
+                        <td><a href="/customerdetails/@c.CustomerId">@c.CompanyName</a></td>
+                        <td>@c.ContactName</td>
+                        <td>@c.City</td>
+                        <td>@c.Country</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

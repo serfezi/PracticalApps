@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "Hash": "JDyavM27SQ83fEWvSQaRMUj6jsdSwD+7bDyGHcb5f7Q=",
+  "Source": "Northwind.Web",
+  "BasePath": "_content/Northwind.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/home/tomislav/source/cs10dotnet6/PracticalApps/Northwind.Razor.Employees/Northwind.Razor.Employees.csproj",
+      "Version": 2,
+      "Source": "Northwind.Razor.Employees",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Northwind.Web/wwwroot",
+      "Source": "Northwind.Web",
+      "ContentRoot": "/home/tomislav/source/cs10dotnet6/PracticalApps/Northwind.Web/wwwroot/",
+      "BasePath": "_content/Northwind.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/tomislav/source/cs10dotnet6/PracticalApps/Northwind.Web/wwwroot/index.html",
+      "SourceId": "Northwind.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/tomislav/source/cs10dotnet6/PracticalApps/Northwind.Web/wwwroot/",
+      "BasePath": "_content/Northwind.Web",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}
