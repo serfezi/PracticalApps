@@ -1,33 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "/home/tomislav/source/cs10dotnet6/PracticalApps/Northwind.Common.DataContext.Sqlite/Northwind.Common.DataContext.Sqlite.csproj": {}
+    "C:\\Users\\t.serfezi\\OneDrive - Axess AG\\moje\\source\\PracticalApps\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj": {}
   },
   "projects": {
-    "/home/tomislav/source/cs10dotnet6/PracticalApps/Northwind.Common.DataContext.Sqlite/Northwind.Common.DataContext.Sqlite.csproj": {
+    "C:\\Users\\t.serfezi\\OneDrive - Axess AG\\moje\\source\\PracticalApps\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tomislav/source/cs10dotnet6/PracticalApps/Northwind.Common.DataContext.Sqlite/Northwind.Common.DataContext.Sqlite.csproj",
+        "projectUniqueName": "C:\\Users\\t.serfezi\\OneDrive - Axess AG\\moje\\source\\PracticalApps\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj",
         "projectName": "Northwind.Common.DataContext.Sqlite",
-        "projectPath": "/home/tomislav/source/cs10dotnet6/PracticalApps/Northwind.Common.DataContext.Sqlite/Northwind.Common.DataContext.Sqlite.csproj",
-        "packagesPath": "/home/tomislav/.nuget/packages/",
-        "outputPath": "/home/tomislav/source/cs10dotnet6/PracticalApps/Northwind.Common.DataContext.Sqlite/obj/",
+        "projectPath": "C:\\Users\\t.serfezi\\OneDrive - Axess AG\\moje\\source\\PracticalApps\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj",
+        "packagesPath": "C:\\Users\\t.serfezi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\t.serfezi\\OneDrive - Axess AG\\moje\\source\\PracticalApps\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/home/tomislav/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\t.serfezi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "https://pkgs.dev.azure.com/TeamAxess/_packaging/teamaxess/nuget/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/tomislav/source/cs10dotnet6/PracticalApps/Northwind.Common.EntityModels.Sqlite/Northwind.Common.EntityModels.Sqlite.csproj": {
-                "projectPath": "/home/tomislav/source/cs10dotnet6/PracticalApps/Northwind.Common.EntityModels.Sqlite/Northwind.Common.EntityModels.Sqlite.csproj"
+              "C:\\Users\\t.serfezi\\OneDrive - Axess AG\\moje\\source\\PracticalApps\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj": {
+                "projectPath": "C:\\Users\\t.serfezi\\OneDrive - Axess AG\\moje\\source\\PracticalApps\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj"
               }
             }
           }
@@ -36,6 +42,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -63,27 +74,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.116/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/tomislav/source/cs10dotnet6/PracticalApps/Northwind.Common.EntityModels.Sqlite/Northwind.Common.EntityModels.Sqlite.csproj": {
+    "C:\\Users\\t.serfezi\\OneDrive - Axess AG\\moje\\source\\PracticalApps\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tomislav/source/cs10dotnet6/PracticalApps/Northwind.Common.EntityModels.Sqlite/Northwind.Common.EntityModels.Sqlite.csproj",
+        "projectUniqueName": "C:\\Users\\t.serfezi\\OneDrive - Axess AG\\moje\\source\\PracticalApps\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
         "projectName": "Northwind.Common.EntityModels.Sqlite",
-        "projectPath": "/home/tomislav/source/cs10dotnet6/PracticalApps/Northwind.Common.EntityModels.Sqlite/Northwind.Common.EntityModels.Sqlite.csproj",
-        "packagesPath": "/home/tomislav/.nuget/packages/",
-        "outputPath": "/home/tomislav/source/cs10dotnet6/PracticalApps/Northwind.Common.EntityModels.Sqlite/obj/",
+        "projectPath": "C:\\Users\\t.serfezi\\OneDrive - Axess AG\\moje\\source\\PracticalApps\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
+        "packagesPath": "C:\\Users\\t.serfezi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\t.serfezi\\OneDrive - Axess AG\\moje\\source\\PracticalApps\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/home/tomislav/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\t.serfezi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "https://pkgs.dev.azure.com/TeamAxess/_packaging/teamaxess/nuget/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "net7.0": {
@@ -95,6 +112,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -128,7 +150,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.116/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
